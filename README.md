@@ -1,7 +1,7 @@
 # Homework-20-Solidity
 Homework-20- Solidity
 
-My code is in joint_savings2.sol I went through all the steps in the assignment README and I think I hit everything.
+My code is in joint_savings2.sol. I went through all the steps in the assignment README and I think I hit everything.
 
 
 <br>Transaction One. 1 ETH in Wei:
